@@ -102,6 +102,8 @@ func GenerateGhosttyTheme(p Palette) string {
 	return result.String()
 }
 
+func 
+
 func GenerateWeztermTheme(p Palette) string {
 	var result strings.Builder
 	fmt.Fprintf(&result, "ansi = ['%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s']\n",
