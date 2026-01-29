@@ -102,7 +102,6 @@ func GenerateGhosttyTheme(p Palette) string {
 	return result.String()
 }
 
-func 
 
 func GenerateWeztermTheme(p Palette) string {
 	var result strings.Builder
